@@ -14,4 +14,5 @@
 	git checkout -	Breytir í annað tré af geymslunni, gætir breytt einhverju í annari gerð af geymslu.
 	git branch -	Skoða, eyðir eða býr til tré af geymslunni, ef verið er að vinna með fleiri gerðir.
 
-
+## 4. Hvað er útgáfustýring (*Version Control*)?
+	Útgáfustýring er kerfi sem að geymir og skráir breytingar sem að geta verið skoðaðar/notaðar seinna.
