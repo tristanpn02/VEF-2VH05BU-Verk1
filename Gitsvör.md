@@ -4,3 +4,7 @@
 	pwd -	Sýnir staðsetningu sem bash er í (pwd gæti sýnt "/c/%USER%/example/example-doc")
 	mkdir -	Býr tíl möppu ("mkdir example" býr tíl möppuna example)
 
+## 2. Hvað gera eftirfarandi Git skipanir?
+	git clone -	Speglar Git geymslu sem að er þegar til.
+	git status -	Sýnir stöðu á geymslu og sýnir breytingar gerðar fyrir uppfæringu.
+	git diff -	Sýnir munin á framkvæmda á geymslu
