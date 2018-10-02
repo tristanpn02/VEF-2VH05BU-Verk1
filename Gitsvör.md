@@ -22,3 +22,10 @@
 	Maður hefur yfirlýsingu á öllu sem að hefur verið að gera.
 	Fólk geta sent inn sína eigin breytingar á verkinu sem að gætu verið notaðar til þess að bæta verkið.
 	
+## 6 Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+	Eins marga og maður mögulega getur ef að það hjálpar verkefninu, 
+	ef að aðrir kvarta þá getiði talað saman um það.
+	
+## 7 Hvað er átt við með "*Working Directory*"?" og "*Staging Area*" í GIT?
+	"Working Directory" er staðsetningin sem að er verið að vinna í.
+	"Staging Area" er þar sem að breytingar fara áður en að þeir verða framkvæmd.
